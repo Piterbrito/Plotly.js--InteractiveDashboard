@@ -1,5 +1,4 @@
-# Biodiversity-Interactive-Dashboard- Javascript, html , CSS, Flask, MongoDB, ComandLine 
-
+# Biodiversity-Interactive-Dashboard- 
 
 # Background
 
@@ -46,4 +45,4 @@ You are welcome to create any layout that you would like for your dashboard. An 
 
 # Findings
 
-![x]("images/biodiversity.png")
+![x]("images\biodiversity.png")
