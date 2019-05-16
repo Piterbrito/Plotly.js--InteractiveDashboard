@@ -45,4 +45,4 @@ You are welcome to create any layout that you would like for your dashboard. An 
 
 # Findings
 
-![x]("images\biodiversity.png")
+![x](Images/biodiversity.png)
