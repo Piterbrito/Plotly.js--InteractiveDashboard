@@ -45,6 +45,29 @@ Update all of the plots any time that a new sample is selected.
 You are welcome to create any layout that you would like for your dashboard. An example dashboard page might look something like the following.
 
 
+# Run Locally
+
+Run this command git clone https://github.com/Piterbrito/Plotly.js--InteractiveDashboard/
+
+
+Make sure you have installed in your computer all libraries used above 
+
+
+Double check if you are in the right directory in you terminal ...that often cause errors
+
+
+Terminal Should be addressed at folder: flask_app
+
+
+Run the command: python app.py in your terminal
+
+
+Copy the output link and paste in your Browser
+
+
+You are now in the dev environment and you can play around
+
+
 # Findings
 
 Screeshot
