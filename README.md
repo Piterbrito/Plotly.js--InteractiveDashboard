@@ -2,6 +2,7 @@
 
 Link: https://biodashboard2.herokuapp.com/
 
+![x](biodiversity.png)
 
 
 
@@ -72,8 +73,3 @@ Copy the output link and paste in your Browser
 
 You are now in the dev environment and you can play around
 
-
-# Findings
-
-Screeshot
-![x](biodiversity.png)
