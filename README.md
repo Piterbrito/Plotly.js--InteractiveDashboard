@@ -45,7 +45,7 @@ You are welcome to create any layout that you would like for your dashboard.
 
 # Run Locally
 
-Run this command git clone https://github.com/Piterbrito/Plotly.js--InteractiveDashboard/
+AT Comandline, Run the command: git clone https://github.com/Piterbrito/Plotly.js--InteractiveDashboard/
 
 
 Make sure you have installed in your computer all libraries used above 
